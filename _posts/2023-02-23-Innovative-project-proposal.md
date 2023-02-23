@@ -22,7 +22,7 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## 家用料理機器人
 ![](https://github.com/WittmannUMU/MCU-project/blob/main/images/0_ZLfPdBuEy3SgJscw.jpg?raw=true)
-
+<iframe width="1239" height="697" src="https://www.youtube.com/embed/R0eQRBUHjqk" title="Heavy Hitters | Su-27 Flanker Vs F-15 Eagle | Digital Combat Simulator | DCS |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
 2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
