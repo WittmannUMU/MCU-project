@@ -36,15 +36,15 @@ This homework is to propose an innovative project and describe the key features,
 **所需相關技術：**
 1. 滑軌式機器手臂
 2. 影像辨識:Jetson Nano + IMX219
-
+3. 距離辨識:超音波感測器HC-SR04
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+
 
 
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+
 
 
