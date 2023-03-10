@@ -22,7 +22,7 @@ This homework is to propose an innovative project and describe the key features,
 ---
 ## 無死角輔助扶手
 ![](https://github.com/WittmannUMU/MCU-project/blob/main/images/0_ZLfPdBuEy3SgJscw.jpg?raw=true)
-<iframe width="1239" height="697" src="https://www.youtube.com/embed/R0eQRBUHjqk" title="Heavy Hitters | Su-27 Flanker Vs F-15 Eagle | Digital Combat Simulator | DCS |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://github.com/WittmannUMU/MCU-project/blob/main/images/23031102.jpg?raw=true)
 ### 應用功能說明
 跟著使用者以提供必要時之身體支撐，並依據使用者手勢調整姿態
 
@@ -39,7 +39,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 距離辨識:超音波感測器HC-SR04
 
 ### 系統方塊圖
-
+![](https://github.com/WittmannUMU/MCU-project/blob/main/images/230311.jpg?raw=true)
 
 
 <br>
